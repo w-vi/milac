@@ -13,7 +13,7 @@ and propagation.
 See the `test` directory for Mila language reference.
 
 [^1]:
-[Louden, K.C. - Compiler Construction, 1997](http://www.cs.sjsu.edu/~louden/cmptext/,
+[Louden, K.C. - Compiler Construction, 1997](http://www.cs.sjsu.edu/~louden/cmptext/
 , "Louden, K.C. - Compiler Construction, 1997")
 
 Mila compiler for TINY machine
