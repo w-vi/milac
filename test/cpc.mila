@@ -1,0 +1,10 @@
+var b;
+const c = 2;
+begin
+   b := 0;
+   write b;
+   b := b + 3;
+   write b;
+   b := 3 + c;
+   write b;
+end

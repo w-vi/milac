@@ -1,0 +1,9 @@
+var a,b,c,d;
+begin
+   read a;
+   read b;
+   read c;
+   d := (a + b) + (a + b) + (b + a) * ( (a * b) + (b * a) ) + (a * b) + (c + a + b);
+   write d;
+   write c;
+end

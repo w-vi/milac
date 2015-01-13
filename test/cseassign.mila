@@ -1,0 +1,7 @@
+var a,b,c,d;
+begin
+   read b;
+   a := 1 + b;
+   if a > b then  a:= 2 else a := 3;
+   write a;
+end

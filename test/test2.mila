@@ -1,0 +1,8 @@
+var x, a, b, c;
+begin
+a := 2;
+b := 4;
+c := 6;
+x := (a * b) + (a * b) + (a * b) + (c * (a * b)) + (c + (a * b));
+write x;
+end

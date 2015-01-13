@@ -1,0 +1,6 @@
+var a;
+begin
+   read a;
+   if a < 5 then a:= a + 5 else a:= a + 0;
+   write a;
+end

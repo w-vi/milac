@@ -1,0 +1,11 @@
+var a,b,d;
+const c = 0;
+begin
+   read a;
+   read b;
+   b := b + c;
+   d := a + b;
+   d := ((a - (b - d)) + (b - (a - d))) + (a - d);
+   write d;
+   write c;
+end

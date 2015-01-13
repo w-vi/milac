@@ -1,0 +1,13 @@
+var a,b;
+const c = 2;
+begin
+   read a;
+   b := 3 + c;
+   write a+b;
+   while  a < b do
+   begin
+	a := a + 1;
+	write a;
+   end;
+   write b;
+end

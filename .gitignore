@@ -1,0 +1,28 @@
+#Gnu Global files
+GRTAGS
+GPATH
+GTAGS
+
+# Object files
+*.o
+*.od
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+/src/log.txt
+/src/out.tm
+/test/tm
